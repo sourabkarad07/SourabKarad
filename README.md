@@ -11,3 +11,22 @@ Building scalable applications, cloud solutions, and AI-powered systems.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,mysql,aws,git,github,linux,vscode,idea" />
+
+</p>
+
+## 👨‍💻 About Me
+
+- 💼 Software Engineer
+- ☕ Java Developer
+- 🤖 Machine Learning & Computer Vision Enthusiast
+- 🗄️ SQL & Database Design
+- 🔍 Cyber Security & Network Analysis
+- ☁️ AWS Cloud Learner
+- 🌱 Currently learning Spring Boot & System Design
+- 📍 Pune, Maharashtra, India
