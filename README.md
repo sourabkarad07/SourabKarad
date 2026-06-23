@@ -30,3 +30,9 @@ Building scalable applications, cloud solutions, and AI-powered systems.
 - ☁️ AWS Cloud Learner
 - 🌱 Currently learning Spring Boot & System Design
 - 📍 Pune, Maharashtra, India
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=sourab777karad&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourab777karad&layout=compact&theme=tokyonight)
